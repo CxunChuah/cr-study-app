@@ -41,7 +41,7 @@ Key terms to keep in mind:
 
 ### *What* are the STRUCTURES of the HEART WALL?
 
-![image.png](image%201.png)
+![Heart Diagram](https://raw.githubusercontent.com/CxunChuah/cr-study-app/main/images/heart-diagram.png)
 
 The heart wall is composed of 3 layers of tissue: 
 
