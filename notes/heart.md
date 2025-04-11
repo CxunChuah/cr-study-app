@@ -24,7 +24,8 @@ Key terms to keep in mind:
 
 ### *Where* is the HEART LOCATED?
 
-![image.png](image.png)
+![Heart Diagram](https://raw.githubusercontent.com/CxunChuah/cr-study-app/main/images/heart-diagram.png)
+
 
 - The heart lies in the thoracic cavity in the mediastinum (the space between the lungs).
 - It lies obliquely, a little more to the left>right, and presents a base above, and an apex below.
